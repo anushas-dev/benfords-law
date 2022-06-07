@@ -8,7 +8,9 @@ Read [more](https://mathworld.wolfram.com/BenfordsLaw.html)
 The code is the easy graph example of count of leading digits, the example taken is from wikipedia data of population of 237 countries as of July 2010
 
 Graph from Wiki
+
 ![plot](./assets/wiki_graph.JPG)
 
 Code Generated Graph
+
 ![plot](./assets/code_graph.png)
